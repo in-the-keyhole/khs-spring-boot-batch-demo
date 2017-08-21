@@ -37,7 +37,7 @@ public class JobLauncherController {
 			throw new RuntimeException(e);
 		}
  
-		return "Done";
+		return "Job Done, check console...";
 	}
 	
 	
@@ -52,13 +52,9 @@ public class JobLauncherController {
 			throw new RuntimeException(e);
 		}
  
-		return "Done";
+		return "Job Done, check console...";
 	}
 	
 	
-	
-	
-	
-	
-	
+			
 }
