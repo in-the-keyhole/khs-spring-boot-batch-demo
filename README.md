@@ -9,8 +9,8 @@ Spring Boot Batch Demo
 3. Execute Java main method `khs.example.KhsSpringBootBatchDemoApplication`
 4. Execute Hello World Job...
      
-    Open this link in browser http://localhost:8080/launchhhelloworld
+    Open this link in browser http://localhost:8080/launchhelloworld
     
 5. Execute Stock Quote Job... 
 
-    Open this link in browser http://locahost:8080//launchstockticker
+    Open this link in browser http://localhost:8080/launchstockticker
